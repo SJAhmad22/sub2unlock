@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 13 Jul 2022 10:04:32 at https://sub2unlock.me/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://sub2unlock.me/
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sub2unlock.me/ -O1 "D:\sub2unlock" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +https://sub2unlock.me/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:04:33	Warning: 	File not parsed, looks like binary: https://sub2unlock.me/robots.txt
+10:04:46	Error: 	"Not Found" (404) at link https://sub2unlock.me/assets/images/1900x1200_img_5.jpg (from https://sub2unlock.me/)
+10:04:47	Warning: 	Link https://sub2unlock.me/fonts/slick/slick.svg not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 15 seconds : 34 links scanned, 32 files written (3906060 bytes overall) [1584715 bytes received at 105647 bytes/sec], 3027127 bytes transferred using HTTP compression in 24 files, ratio 22%, 5.6 requests per connection
+(1 errors, 2 warnings, 0 messages)
